@@ -1,0 +1,161 @@
+#wrapper3{
+	background-color: white; 
+	margin-top: 100px;
+	margin-left: 70px;
+	width: 1190px;
+	height: 700px;
+}
+#header3{
+	width: 100%;
+	height: 200px;
+	float: left;
+}
+#headeror1{
+	padding-top: 70px; 
+	text-align: center; 
+	font-size: 18px;
+	font-family: 'Algerian', sans-serif;
+background-color: grey;
+width: 200px;
+height: 120px;
+float: left;
+}
+#headeror2{
+	text-align: center;
+background-color: #60c5ce;
+width: 195px;
+height: 190px;
+float: left;
+}
+#headeror2 h1{
+	font-family: 'Brush Script Std', sans-serif;
+}
+#headeror3{
+	text-align: center;
+background-color: #a34e54;
+width: 195px;
+height: 190px;
+float: left;
+}
+#headeror3 h1{
+	font-family: 'Brush Script Std', sans-serif;
+}
+#headeror4{
+	text-align: center;
+background-color: #994ea3;
+width: 195px;
+height: 190px;
+float: left;
+}
+#headeror4 h1{
+	font-family: 'Brush Script Std', sans-serif;
+}
+#headeror5{
+background-color:#d4e1b4;
+width: 195px;
+height: 190px;
+float: left;
+}
+#headeror5 h1{
+	font-family: 'Brush Script Std', sans-serif;
+}
+#headeror6 h1{font-family:'Brush Script Std',sans-serif}
+#headeror6{
+	text-align: center;
+	background-color:#ec9f37;
+	width: 195px;
+	height: 190px;
+	float: left;
+}
+#header4{
+	width: 100%;
+	height: 200px;
+	float: left;
+}
+#headeror7{
+	font-family: 'Algerian', cursive;
+	padding-top: 70px; 
+	text-align: center;
+	background-color: #4c2607;
+	width: 200px;
+	height: 120px;
+	float: left;
+}
+#headeror8{
+	text-align: center;
+	background-color: #072645;
+	width: 328px;
+	height: 190px;
+	float: left;
+}
+#headeror8 h1{
+	font-family: 'Lucida Calligraphy', cursive;
+}
+#headeror9{
+	background-color: #94555e;
+	width: 328px;
+	height: 190px;
+	float: left;
+}
+#headeror9 h1{
+	font-family: 'Lucida Calligraphy', cursive;
+}
+#headeror10{
+	text-align: center;
+	background-color: green;
+	width: 329px;
+	height: 190px;
+	float: left;
+}
+#headeror10 h1{
+	font-family: 'Lucida Calligraphy', cursive;
+}
+#article3{
+	padding-left: 50px;
+	padding-top: 25px;
+	font-size: 50px;
+	color: blue;
+	text-align: center;
+	font-family: 'Lucida Calligraphy', sans-serif;
+	background-color: pink;
+	width: 1130px;
+	height: 80px;
+	float: left;
+}
+#article3 img{
+	width: 50px;
+	height: 50px;
+	float: left;
+}
+#header5{
+	width: 100%;
+	height: 200px;
+	float: left;
+}
+#headeror11{
+	width: 396px;
+	height: 190px;
+	float: left;
+}
+#headeror11 img{
+	width:100%;
+	height: 100%; 
+}
+#headeror12{
+	width: 396px;
+	height: 190px;
+	float: left;
+}
+#headeror12 img{
+	width:100%;
+	height: 100%; 
+}
+#headeror13{
+	width: 398px;
+	height: 190px;
+	float: left;
+}
+#headeror13 img{
+	width:100%;
+	height: 100%; 
+}

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+  <title>Ödev</title>
+  <link rel="stylesheet" type="text/css" href="İNDEX.css">
+  <link href="https://fonts.googleapis.com/css?family=Mina" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Krona+One" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Nosifer" rel="stylesheet">
+</head>
+<script type="text/javascript">
+  var adsoyad=prompt("Adını soyadını gir : ")
+  var girilen=prompt("alta yuvarlanacak sayıyı:");
+  var yuvarlanan=Math.floor(girilen);
+  var girilensayi=prompt("Üste yuvarlanacak sayıyı:");
+  var yuvarlanansayi=Math.round(girilensayi);
+  var karekokgir=prompt("Karekökü alınacak sayıyı:")
+  var karekok=Math.sqrt(karekokgir);
+  var pisayi=Math.PI;
+  var rasgelesayigir=prompt("Rasgele bir sayı gir:")
+  var rasgele=Math.random(rasgelesayigir);
+  var zaman=new Date();
+  var saat=zaman.getHours();
+  var dakika=zaman.getMinutes();
+  var saniye=zaman.getSeconds();
+
+</script>
+<body bgcolor="red">
+
+  <div id="wrapper3">
+  <div id="article3">
+    <script type="text/javascript">
+      document.write(adsoyad);
+    </script>
+    <a href="https://github.com/fthydln"><img src="git.png"></a>
+  </div>
+  <div id="header3">
+  <div id="headeror1">FONKSİYONLAR</div>
+  <div id="headeror2">
+        <h1 align="center">Alta Yuvarla</h1>
+    <script type="text/javascript">
+        document.write("Alta yuvarlanmiş hali : "+yuvarlanan);
+    </script>
+  </div>
+  <div id="headeror3">
+    <h1 align="center">Üste Yuvarla</h1>
+    <script type="text/javascript">
+        document.write("Üste yuvarlanmiş hali : "+yuvarlanansayi);
+    </script>
+  </div>
+  <div id="headeror4">
+  <h1 align="center">Karekök</h1>
+    <script type="text/javascript">
+      document.write("sayının kökü : "+karekok);
+    </script>
+  </div>
+  <div id="headeror5" align="center">
+  <h1 align="center">Pi Sayısı</h1>
+  <script type="text/javascript">
+    document.write(pisayi);
+  </script>
+  </div>
+  <div id="headeror6">
+    <h1 align="center">Rasgele Sayı</h1>
+    <script type="text/javascript">
+      document.write("Rasgele girilen sayı : "+rasgele);
+    </script>
+  </div>
+  </div>
+  <div id="header4">
+  <div id="headeror7">VERİ Fonksiyonları</div>
+  <div id="headeror8">
+    <h1 align="center">Ful Format</h1>
+    <script type="text/javascript">
+      document.write(zaman);
+    </script>
+  </div>
+  <div id="headeror9">
+    <h1 align="center"></h1>
+  </div>
+  <div id="headeror10">
+    <h1 align="center">SAAT</h1>
+    <script type="text/javascript">
+    document.write(saat+"."+dakika+"."+saniye);
+    </script>
+  </div>
+  </div>
+  <div id="header5">
+  <div id="headeror13">
+    <img src="grişapka.jpg" onclick="alert('GRİ ŞAPKA')">
+  </div>
+  <div id="headeror12">
+    <img src="siyahşapka.jpg" onmouseout="alert('SİYAH ŞAPKA');">
+  </div>
+  
+  <div id="headeror11">
+    <img src="beyazşapka.jpg" onmouseover="alert('BEYAZ ŞAPKA');">
+  </div>
+  
+  </div>
+  </div>
+
+</body>
+</html>
